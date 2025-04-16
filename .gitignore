@@ -1,0 +1,4 @@
+leads_database.xlsx
+leads_report_*.xlsx
+__pycache__/
+.env
